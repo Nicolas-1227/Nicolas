@@ -1,4 +1,4 @@
-## Hi, I'm <Nicolas>!!
+## Hi, I'm Nicolas!!
 <div align="center">
   <a href="https://github.com/ Nicolas-1227 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<Nicolas-1227>&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
